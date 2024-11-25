@@ -1,3 +1,5 @@
+**Rozwiązania zadań rekrutacyjnych - Kacper Dłubała**
+
 <p float="center">
 <img src="images/ailab_logo.jpg" width="800"/>
 </p>
